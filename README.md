@@ -26,7 +26,7 @@ Parte del procesamiento es identificar en la señal si lo que vemos es un terrem
 
 <img src="https://github.com/miguel-mf/Ejemplos/blob/main/images/Signals.gif" height="350"> 
 
-Este sistema de clasificación fue entrenado utilizando la base de datos de terremotos identificados con anterioridad en el Centro Sismológico Nacional ~10.000 sismos por año registrado en ~100 estaciones y en 3 componentes, además probando señales sin sismos, ruidosas o con otro tipo de fenómenos.
+Este sistema de clasificación fue entrenado utilizando la base de datos de terremotos identificados con anterioridad en el Centro Sismológico Nacional ~7.000 sismos por año registrado en ~100 estaciones y en 3 componentes, además probando señales sin sismos, ruidosas o con otro tipo de fenómenos.
 
 <p float="left">
 <img src="https://github.com/miguel-mf/Ejemplos/blob/main/images/SismosYear.jpg" width="420"> 
