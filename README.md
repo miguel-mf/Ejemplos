@@ -22,9 +22,16 @@ Este fue un gran proyecto donde pusimos en marcha un software capaz de identific
 
 Este trabajo se separa en varias partes en particular en las que trabajé principalmente fueron diseño del software y creación de la aplicación móvil.
 
-Parte del procesamiento es identificar en la señal si lo que vemos es un terremoto u otro tipo de señal, se utilizan métricas sobre la forma de la señal de manera de que un sistema de clasificación nos pueda indicar si es un sismo o no de manera rápida. Este sistema de clasificación fue entrenado utilizando la base de datos de terremotos identificados con anterioridad en el Centro Sismológico Nacional, además probando señales sin sismos, ruidosas o con otro tipo de fenómenos.
+Parte del procesamiento es identificar en la señal si lo que vemos es un terremoto u otro tipo de señal, se utilizan métricas sobre la forma de la señal de manera de que un sistema de clasificación nos pueda indicar si es un sismo o no de manera rápida.
 
-<img src="https://github.com/miguel-mf/Ejemplos/blob/main/images/Signals.gif" height="400"> 
+<img src="https://github.com/miguel-mf/Ejemplos/blob/main/images/Signals.gif" height="350"> 
+
+Este sistema de clasificación fue entrenado utilizando la base de datos de terremotos identificados con anterioridad en el Centro Sismológico Nacional ~10.000 sismos por año registrado en ~100 estaciones y en 3 componentes, además probando señales sin sismos, ruidosas o con otro tipo de fenómenos.
+
+<p float="left">
+<img src="https://github.com/miguel-mf/Ejemplos/blob/main/images/SismosYear.jpg" width="420"> 
+<img src="https://github.com/miguel-mf/Ejemplos/blob/main/images/SismosMag.jpg" width="420"> 
+</p>
 
 De esta manera podemos identificar sismos desde magnitud 2.0 en adelante de manera totalmente automática.
 
