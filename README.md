@@ -15,5 +15,18 @@ Para esto se utilizó un modelo con regularización de tipo Ridge o Tikhonov de 
 
 El resultado fue desplegar un software capaz de encontrar soluciones robustas para terremotos en tiempo real.
 
+## Trabajo en el Centro Sismológico Nacional: Alerta Temprana
+Fuente: [Trabajo publicado](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/93/6/3337/616141)
+
+Este fue un gran proyecto donde pusimos en marcha un software capaz de identificar rápidamente un terremoto mientras ocurre, de manera que seamos capaces de alertar a personas antes de que ellas perciban el sismo.
+
+Este trabajo se separa en varias partes en particular en las que trabajé principalmente fueron diseño del software y creación de la aplicación móvil.
 
 
+
+Por otra parte, una vez implementado el sistema se creo un prototipo de aplicación móvil para crear alertas más personalizadas. Esta aplicación fue desarrollada para Android/iOS con React Native.
+
+<p float="left">
+<img src="https://github.com/miguel-mf/Ejemplos/blob/main/images/Foto1.jpg" height="600"> 
+<img src="https://github.com/miguel-mf/Ejemplos/blob/main/images/Foto2.jpg" height="600">
+</p>
