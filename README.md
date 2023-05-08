@@ -22,7 +22,11 @@ Este fue un gran proyecto donde pusimos en marcha un software capaz de identific
 
 Este trabajo se separa en varias partes en particular en las que trabajé principalmente fueron diseño del software y creación de la aplicación móvil.
 
+Parte del procesamiento es identificar en la señal si lo que vemos es un terremoto u otro tipo de señal, se utilizan métricas sobre la forma de la señal de manera de que un sistema de clasificación nos pueda indicar si es un sismo o no de manera rápida. Este sistema de clasificación fue entrenado utilizando la base de datos de terremotos identificados con anterioridad en el Centro Sismológico Nacional, además probando señales sin sismos, ruidosas o con otro tipo de fenómenos.
 
+<img src="https://github.com/miguel-mf/Ejemplos/blob/main/images/Signals.gif" height="400"> 
+
+De esta manera podemos identificar sismos desde magnitud 2.0 en adelante de manera totalmente automática.
 
 Por otra parte, una vez implementado el sistema se creo un prototipo de aplicación móvil para crear alertas más personalizadas. Esta aplicación fue desarrollada para Android/iOS con React Native.
 
